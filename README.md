@@ -1,0 +1,2 @@
+# Semi-Supervised-Machine-Learning-Approach-for-Ddos-Detection
+This project uses semi-supervised learning to detect DDoS attacks by leveraging both labeled &amp; unlabeled network traffic data. Models like Self-Training, Label Propagation, or One-Class SVM to identify abnormal traffic patterns. It improves accuracy, especially when labeled attack data is limited, and helps in identifying DDoS threats.
